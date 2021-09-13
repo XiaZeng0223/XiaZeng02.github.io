@@ -82,7 +82,6 @@ analytics:
 author:
   name             : "Xia Zeng"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
   location         : "London, UK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,14 +101,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/xia-zeng-98a532184/"
-  orcid            : "https://orcid.org/0000-0002-7535-6904"
+  linkedin         : "xia-zeng-98a532184"
+  orcid            : "0000-0002-7535-6904"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "https://steamcommunity.com/profiles/76561198861410251/"
+  steam            : "76561198861410251"
   tumblr           :
-  twitter          : "https://twitter.com/XiaZeng2"
+  twitter          : "XiaZeng2"
   vine             :
   weibo            :
   xing             :
