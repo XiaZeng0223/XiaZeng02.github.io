@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "QMUL-SDS at SCIVER: Step-by-Step Binary Classification for Scientific Claim Verification"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: https://aclanthology.org/2021.sdp-1.15
+excerpt: 'In this paper, we propose an approach that performs scientific claim verification by doing binary classifications step-by-step.'
+date: 2021-06
+venue: 'Proceedings of the Second Workshop on Scholarly Document Processing'
+paperurl: 'https://aclanthology.org/2021.sdp-1.15.pdf'
+
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
