@@ -15,7 +15,7 @@ Education
 * M.A. (with Distinction) in Linguistics, University College London, 2018-2019
 * Ph.D in Computer Science, Queen Mary University of London, 2020-2024 (ongoing)
 
-Academic/Research experience
+Academic/Research Experience
 ======
   
 * Exchange Program, 2017
@@ -40,7 +40,7 @@ Interests
 ======
 * Natural Language Processing
 * Machine Learning
-* Semantics
+* Formal Semantics
 
 Publications
 ======
