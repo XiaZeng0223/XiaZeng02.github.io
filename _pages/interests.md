@@ -3,8 +3,7 @@ permalink: /interests/
 title: "Interests"
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /interests.html
+
 ---
 
 ## Personal Interests
