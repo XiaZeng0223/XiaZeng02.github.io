@@ -1,10 +1,9 @@
 ---
-permalink: /
+permalink: /interests/
 title: "Interests"
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /interests/
   - /interests.html
 ---
 
