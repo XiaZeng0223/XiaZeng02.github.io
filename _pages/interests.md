@@ -1,7 +1,7 @@
 ---
 permalink: /interests/
 title: "Interests"
-excerpt: ""
+excerpt: "Personal interests."
 author_profile: true
 
 ---
@@ -13,7 +13,7 @@ author_profile: true
 * Gaming (though I'm terrible at it), e.g. Battlefield, Age of Empires, [剑网情缘3](https://jx3.xoyo.com/)
 * Cooking
 
-## Youtube Channels I follow
+# Youtube Channels I follow
 * [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
 * [Lex Fridman](https://www.youtube.com/c/lexfridman)
 * [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher)
@@ -28,7 +28,7 @@ author_profile: true
 * [RealityEscape](https://www.youtube.com/c/RealityEscape)
 * ...
 
-## Bilibili Channels I follow
+# Bilibili Channels I follow
 * [老东北美食](https://space.bilibili.com/514273130/)
 * [品诺美食开课啦](https://space.bilibili.com/352637817/)
 * [厌食同学](https://space.bilibili.com/14487572/)
