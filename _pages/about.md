@@ -3,9 +3,7 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 
 Hi there! I am Xia(霞) Zeng(曾). My old friends call me Ashley and my colleagues call me Xia. I don't have strong preferences, anything nice works for me. :)
