@@ -1,12 +1,11 @@
 ---
 permalink: /interests/
-title: "Interests"
+title: "Personal Interests"
 excerpt: "Personal interests."
 author_profile: true
 
 ---
 
-## Personal Interests
 * Badminton
 * Board games
 * Retrogaming, e.g. super mario, Contra and tetris
