@@ -36,8 +36,9 @@ Academic/Research Experience
   * Project: SciGen: a Dataset for Reasoning-Aware Text Generation from Scientific Tables
   * Supervisors: Nafise Sadat Moosavi and Andreas Rücklé
   
-Interests
+Research Interests
 ======
+* Automated Fact-Checking
 * Natural Language Processing
 * Machine Learning
 * Formal Semantics
