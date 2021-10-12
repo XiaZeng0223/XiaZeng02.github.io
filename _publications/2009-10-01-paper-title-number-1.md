@@ -1,4 +1,5 @@
 ---
+authors: "Xia Zeng, Arkaitz Zubiaga"
 title: "QMUL-SDS at SCIVER: Step-by-Step Binary Classification for Scientific Claim Verification"
 collection: publications
 permalink: https://aclanthology.org/2021.sdp-1.15
