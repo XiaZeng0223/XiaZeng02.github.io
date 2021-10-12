@@ -34,7 +34,7 @@ Academic/Research Experience
 * Research Assistant, 2019-2020
   * Ubiquitous Knowledge Processing Lab, Technische Universität Darmstadt
   * Project: SciGen: a Dataset for Reasoning-Aware Text Generation from Scientific Tables
-  * Supervisors: Nafise Sadat Moosavi and Andreas Rücklé
+  * Supervisors: Dr. Nafise Sadat Moosavi and Dr. Andreas Rücklé
   
 Research Interests
 ======
