@@ -7,6 +7,6 @@ excerpt: 'In this paper, we propose an approach that performs scientific claim v
 date: 2021-06-10
 venue: 'Proceedings of the Second Workshop on Scholarly Document Processing'
 paperurl: 'https://aclanthology.org/2021.sdp-1.15.pdf'
-citation: "Zeng, X., & Zubiaga, A. (2021). QMUL-SDS at SCIVER: Step-by-step binary classification for scientific claim ver-ification. In Proceedings of the Workshop on Scientific Document Processing (pp. 116–123). Association for Computational Linguistics."
+citation: "Zeng, X., & Zubiaga, A. (2021). QMUL-SDS at SCIVER: Step-by-step binary classification for scientific claim ver-ification. In Proceedings of the Second Workshop on Scientific Document Processing (pp. 116–123). Association for Computational Linguistics."
     
 ---
