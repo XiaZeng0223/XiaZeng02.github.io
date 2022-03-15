@@ -84,7 +84,6 @@ author:
   avatar           : "bookish.jpg"
   location         : "London, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=lKaN_k0AAAAJ"
   email            : "x[dot][my_surname]@qmul.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,11 +101,10 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "xia-zeng-98a532184"
-  orcid            : "0000-0002-7535-6904"
+  orcid            : "https://orcid.org/0000-0002-7535-6904"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "76561198861410251"
   tumblr           :
   twitter          : "XiaZeng2"
   vine             :
