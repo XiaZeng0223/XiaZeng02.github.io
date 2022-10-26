@@ -34,7 +34,11 @@ Academic/Research Experience
   * Ubiquitous Knowledge Processing Lab, Technische Universität Darmstadt
   * Project: SciGen: a Dataset for Reasoning-Aware Text Generation from Scientific Tables
   * Supervisors: Dr. Nafise Sadat Moosavi and Dr. Andreas Rücklé
-  
+
+* Summer School, 2022
+  * Imperial College London
+  * Coursework: Computational Social Sciences  
+
 Research Interests
 ======
 * Automated Fact-Checking
