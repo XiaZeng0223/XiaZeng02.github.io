@@ -8,9 +8,7 @@ author_profile: true
 
 * Badminton
 * Board games
-* Yoga
-* Wood Carving
-* Retrogaming, e.g. super mario, Contra and tetris
+* Fencing
 * Gaming (though I'm terrible at it), e.g. Battlefield, Age of Empires, [剑网情缘3](https://jx3.xoyo.com/)
 * Cooking
 
