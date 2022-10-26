@@ -41,6 +41,7 @@ Research Interests
 * Natural Language Processing
 * Machine Learning
 * Formal Semantics
+* Active Learning
 
 Publications
 ======
