@@ -16,6 +16,11 @@ Education
 
 Academic/Research Experience
 ======
+* Module Demonstrator, since 2020
+  * Modules: ECS7001P Neural Networks and NLP. with Julia Ive, Massimo Poesio. 2023.
+             ECS763U/ECS763P Natural Language Processing. with Julian Hough. 2021 - 2022.
+             ECS421U Automata and Formal Languages. with Nikos Tzevelekos. 2020-2021.
+
 * Guest Lectuer, 2023
   * University College London
   * Topic: An Introduction to Natural Language Processing
@@ -39,7 +44,11 @@ Academic/Research Experience
 * Exchange Program, 2017
   * Department of Linguistics, University of California, San Diego
   * Coursework: Computational Linguistics, Linguistics of Invented Langauges, etc.
-    
+
+Community Service
+======
+reviewer for EMNLP2022
+
 Research Interests
 ======
 * Automated Fact-Checking
