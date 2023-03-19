@@ -16,29 +16,30 @@ Education
 
 Academic/Research Experience
 ======
-  
-* Exchange Program, 2017
-  * Department of Linguistics, University of California, San Diego
-  * Coursework: Computational Linguistics, Linguistics of Invented Langauges, etc.
-    
-* Experimental Assistant, 2018
-  * Cross-Linguistic Studies and Brain Sciences Lab, Zhejiang University of Technology
-  * Project: Processing of Information Structure in Chinese 
-  * Supervisor: Dr. Luming Wang
+* Guest Lectuer, 2023
+  * University College London
+  * Topic: An Introduction to Natural Language Processing
+  * I was invited to deliver a guest lecture to postgraduate students as part of a Machine Learning module at UCL.
 
-* Summer School, 2019
+* Tutorial Instructor, 2022
   * Imperial College London
-  * Coursework: Machine Learning and Applied Statistics  
+  * Topic: Large Language Models
+  * I was invited to give a tutorial to other young reseachers on computational social sciences as part of the Summer Institutes of Computational Social Science (SICSS 2022-London)  https://sicss.io/2022/london/schedule
 
 * Research Assistant, 2019-2020
   * Ubiquitous Knowledge Processing Lab, Technische Universität Darmstadt
   * Project: SciGen: a Dataset for Reasoning-Aware Text Generation from Scientific Tables
   * Supervisors: Dr. Nafise Sadat Moosavi and Dr. Andreas Rücklé
 
-* Summer School, 2022
-  * Imperial College London
-  * Coursework: Computational Social Sciences  
-
+* Experimental Assistant, 2018
+  * Cross-Linguistic Studies and Brain Sciences Lab, Zhejiang University of Technology
+  * Project: Processing of Information Structure in Chinese 
+  * Supervisor: Dr. Luming Wang
+  
+* Exchange Program, 2017
+  * Department of Linguistics, University of California, San Diego
+  * Coursework: Computational Linguistics, Linguistics of Invented Langauges, etc.
+    
 Research Interests
 ======
 * Automated Fact-Checking
@@ -46,6 +47,7 @@ Research Interests
 * Machine Learning
 * Formal Semantics
 * Active Learning
+* Reinforcement Learning
 
 Publications
 ======
