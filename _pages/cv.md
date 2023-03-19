@@ -10,9 +10,9 @@ author_profile: true
 
 Education
 ======
-* B.A. in Translation, Zhejiang University of Technology, 2014-2018
-* M.A. (with Distinction) in Linguistics, University College London, 2018-2019
 * Ph.D in Computer Science, Queen Mary University of London, 2020-2024 (ongoing)
+* M.A. (with Distinction) in Linguistics, University College London, 2018-2019
+* B.A. in Translation, Zhejiang University of Technology, 2014-2018
 
 Academic/Research Experience
 ======
