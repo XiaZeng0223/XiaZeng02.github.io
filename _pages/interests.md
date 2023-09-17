@@ -8,9 +8,7 @@ author_profile: true
 
 * Badminton
 * Board games
-* Fencing
 * Gaming
-* Cooking
 
 # Youtube Channels I follow
 * [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
