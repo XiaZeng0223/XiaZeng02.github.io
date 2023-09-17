@@ -18,9 +18,9 @@ Education
 Academic/Research Experience
 ======
 * Demonstrator, 2021-2023
-  * Modules: ECS7001P Neural Networks and NLP. with Julia Ive, Massimo Poesio. 2023.
-             ECS763U/ECS763P Natural Language Processing. with Julian Hough. 2021 - 2022.
-             ECS421U Automata and Formal Languages. with Nikos Tzevelekos. 2020-2021.
+  * ECS7001P Neural Networks and NLP. with Julia Ive, Massimo Poesio. 2023.
+  * ECS763U/ECS763P Natural Language Processing. with Julian Hough. 2021 - 2022.
+  * ECS421U Automata and Formal Languages. with Nikos Tzevelekos. 2020-2021.
 
 * Guest Lectuer, 2023
   * University College London
