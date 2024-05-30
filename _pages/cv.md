@@ -22,7 +22,7 @@ Academic/Research Experience
   * ECS763U/ECS763P Natural Language Processing. with Julian Hough. 2021 - 2022.
   * ECS421U Automata and Formal Languages. with Nikos Tzevelekos. 2020-2021.
 
-* Guest Lectuer, 2023
+* Guest Lecturer, 2023
   * University College London
   * Topic: An Introduction to Natural Language Processing
   * I was invited to deliver a guest lecture to postgraduate students as part of a Machine Learning module at UCL.
@@ -41,7 +41,13 @@ Academic/Research Experience
   * Cross-Linguistic Studies and Brain Sciences Lab, Zhejiang University of Technology
   * Project: Processing of Information Structure in Chinese 
   * Supervisor: Dr. Luming Wang
-  
+ 
+Industry Experience
+======
+  * Post-doctoral Researcher Assistant, 2023-2024
+  * AI CoE HSBC-UK via the Allen Turing Institute
+  * Project: Generative AI Evaluation package for HSBC use cases
+
 
 
 
