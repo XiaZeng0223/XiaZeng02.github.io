@@ -44,7 +44,7 @@ Academic/Research Experience
  
 Industry Experience
 ======
-  * Post-doctoral Researcher Assistant, 2023-2024
+* Post-doctoral Researcher Assistant, 2023-2024
   * AI CoE HSBC-UK via the Allen Turing Institute
   * Project: Generative AI Evaluation package for HSBC use cases
 
